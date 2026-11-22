@@ -1,0 +1,42 @@
+دفتر (Daftar) — اتفاقية الترخيص
+==============================
+
+حقوق النشر © 2026 Xidorn. جميع الحقوق محفوظة.
+
+هذا البرنامج ملك لصاحب حقوق النشر، وهو مرخَّص للاستخدام فقط ولا يُباع.
+
+1. الاستخدام: يُسمح باستخدام البرنامج للعملاء المصرَّح لهم من صاحب حقوق النشر فقط، وفق ما يتم
+   الاتفاق عليه معهم.
+2. لا يجوز، دون إذن كتابي من صاحب حقوق النشر: نسخ البرنامج أو توزيعه أو بيعه أو تأجيره أو ترخيصه
+   للغير، أو تعديله، أو إنشاء أعمال مشتقة منه، أو تفكيكه أو الهندسة العكسية له.
+3. المكوّنات من جهات أخرى (مثل Qt وPython) لها تراخيصها الخاصة في مجلد licenses. لا يقيّد هذا
+   الترخيص أي حق تمنحه تلك التراخيص؛ وبشكل خاص يجوز استبدال مكتبات Qt أو تعديلها، والهندسة
+   العكسية بقدر ما يلزم لتصحيح مثل هذه التعديلات، كما يسمح ترخيص LGPL-3.0.
+4. إذا وُجدت اتفاقية مكتوبة منفصلة بين صاحب حقوق النشر والعميل، فإن شروطها هي التي تُطبَّق.
+5. يُقدَّم البرنامج "كما هو"، دون أي ضمان، إلى الحد الذي يسمح به القانون. احتفظ دائماً بنسخ احتياطية
+   من بياناتك.
+
+للاستفسار أو لطلب إذن: تواصل مع صاحب حقوق النشر.
+
+
+Daftar (دفتر) — Licence
+=======================
+
+Copyright © 2026 Xidorn. All rights reserved.
+
+This software is the property of the copyright holder. It is licensed for use, not sold.
+
+1. Use: the software may be used only by customers authorised by the copyright holder, as agreed
+   with them.
+2. Without written permission from the copyright holder you may not copy, distribute, sell, rent,
+   lease or sublicense the software, modify it, create works based on it, or decompile or reverse
+   engineer it.
+3. Third-party components (such as Qt and Python) come with their own licences, in the "licenses"
+   folder. Nothing in this licence restricts the rights those licences give; in particular, the Qt
+   libraries may be replaced or modified, and reverse engineered as far as needed to debug such
+   modifications, as the LGPL-3.0 allows.
+4. Where the copyright holder and a customer have a separate written agreement, its terms apply.
+5. The software is provided "as is", without warranty of any kind, to the extent the law allows.
+   Always keep backups of your data.
+
+For questions or permission: contact the copyright holder.
